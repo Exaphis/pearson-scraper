@@ -1,0 +1,10 @@
+{
+  "name": "pearson-scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer": "latest"
+  },
+  "devDependencies": {
+    "easy-pdf-merge": "^0.2.2"
+  }
+}
