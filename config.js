@@ -1,5 +1,5 @@
 module.exports = {
     PEARSON_USERNAME: '',
     PEARSON_PASSWORD: '',
-    PEARSON_FIRST_EBOOK_URL: ''
+    PEARSON_EBOOK_FIRST_PAGE_URL: ''
 };

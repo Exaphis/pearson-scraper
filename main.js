@@ -20,7 +20,7 @@ async function main() {
 
     console.log('[+] logged in.\n');
 
-    await page.goto(config.PEARSON_FIRST_EBOOK_URL);
+    await page.goto(config.PEARSON_EBOOK_FIRST_PAGE_URL);
 
     let page_num = 0;
     while (true) {
